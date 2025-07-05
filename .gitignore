@@ -1,0 +1,29 @@
+# Ignore all extensionless files
+*
+!*.*
+!*/
+
+# Ignore all .exe files
+*.exe
+
+*.bin
+
+*.txt
+
+*.json
+
+*.sqlite
+
+*.wsuo
+
+*.vsidx
+
+*.db
+
+*.ipch
+
+# Ignore .vscode folders everywhere (explicit)
+**/.vscode/
+
+# Ignore .cph folders everywhere (explicit)  
+**/.cph/
